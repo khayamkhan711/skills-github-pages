@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [khayam Ullah]
 
 🎓 **Industrial Engineer** | 📊 Data-Driven Problem Solver | 🏭 Process Optimization Enthusiast
 
@@ -36,16 +36,11 @@ Here are a few highlights from my work:
 - **📦 Multi-Period Supply Chain Optimization**
   - Modeled with Supply Chain Guru and solved using LINGO
   - Focused on dynamic demand allocation and cost minimization
-
-- **🐱 Cat Food Filling Line Quality Analysis**
-  - Statistical analysis to reduce overfill/underfill issues
-  - Conducted hypothesis testing and implemented SPC methods
-
 ---
 
 ## 💼 Experience
 
-- **Manufacturing Process Intern** – *[Company Name]*
+- **Manufacturing Process Intern** – *[Locomotive Risalpur]*
   - Conducted time studies and proposed ergonomic improvements
   - Helped implement Kanban system in assembly line
 
@@ -57,8 +52,8 @@ Here are a few highlights from my work:
 
 ## 📬 Contact Me
 
-- 📧 Email: [your.email@example.com]
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [khankhayam702@gmail.com ]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/khayam-ullah-bab13324a/)
 - 💼 Portfolio: [yourportfolio.com] *(optional)*
 
 ---
