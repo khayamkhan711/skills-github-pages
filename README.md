@@ -1,59 +1,68 @@
-<header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# 👋 Hi, I'm [Your Name]
 
-# GitHub Pages
+🎓 **Industrial Engineer** | 📊 Data-Driven Problem Solver | 🏭 Process Optimization Enthusiast
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
-
-## Step 2: Configure your site
-
-_You turned on GitHub Pages! :tada:_
-
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
-
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
-
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
-
-### :keyboard: Activity: Configure your site
-
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Welcome to my GitHub! I’m passionate about using analytical tools and simulation techniques to streamline processes, improve systems, and make informed business decisions.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 🧠 About Me
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+I'm currently pursuing/studied **Industrial Engineering**, with experience in:
 
-</footer>
+- Process Simulation & Optimization (e.g., AnyLogic, Arena)
+- Supply Chain Design & Analysis
+- Lean Manufacturing & Time Study
+- Data Analysis using Python, Excel, and R
+- Project Management (PERT/CPM, MS Project)
+
+I enjoy working on real-world problems where data meets operations, and I love visualizing systems to make them better.
+
+---
+
+## 🛠️ Projects
+
+Here are a few highlights from my work:
+
+- **🔧 Optimization of Aluminum Kitchen Utensil Supply Chain**
+  - Simulation-based approach using AnyLogic
+  - Reduced costs and lead time through routing and inventory optimization
+
+- **🏭 Electric Car Manufacturing Plant Layout**
+  - Used CRAFT method to optimize facility layout
+  - Reduced material handling cost significantly through layout iterations
+
+- **📦 Multi-Period Supply Chain Optimization**
+  - Modeled with Supply Chain Guru and solved using LINGO
+  - Focused on dynamic demand allocation and cost minimization
+
+- **🐱 Cat Food Filling Line Quality Analysis**
+  - Statistical analysis to reduce overfill/underfill issues
+  - Conducted hypothesis testing and implemented SPC methods
+
+---
+
+## 💼 Experience
+
+- **Manufacturing Process Intern** – *[Company Name]*
+  - Conducted time studies and proposed ergonomic improvements
+  - Helped implement Kanban system in assembly line
+
+- **Simulation Project Assistant** – *University Project*
+  - Modeled discrete-event systems using AnyLogic
+  - Analyzed bottlenecks and tested "what-if" scenarios
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [your.email@example.com]
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 Portfolio: [yourportfolio.com] *(optional)*
+
+---
+
+> "Engineering is not only solving problems—it's improving the way we live and work."
+
+Thanks for visiting! Feel free to check out my repositories or reach out.
